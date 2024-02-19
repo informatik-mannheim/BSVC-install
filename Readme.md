@@ -11,8 +11,8 @@ Contains the script used to compile the installer
 
 ## app is the folder that
 
-Contains the bsvc version that can be found in Moodle within the course TEI1
+Contains the BSVC version that can be found in Moodle within the course TEI1
 
 ## Resources
 
-Contains the nsis installer, a tutorial i used to build the NSIS installer and Freewrap
+Contains the NSIS installer, a tutorial i used to build the NSIS installer and Freewrap
