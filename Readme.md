@@ -1,4 +1,4 @@
-# This is a Installer Creater for BSVC made with the use on NSIS
+# This is a Installer Creater for BSVC made with the use of NSIS
 
 ## Setup.nsi 
 Contians the script used to compile the installer
